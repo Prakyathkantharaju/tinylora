@@ -1,6 +1,6 @@
 # Tiny Lora
 
-Writing lora using the tinygrad library. This is a work in progress.
+Writing lora using the tinygrad library. This is work in progress.
 This is similar to Peft library from huggingface link [here](https://github.com/huggingface/peft) but with tinygrad and tinygrad principles.
 
 
