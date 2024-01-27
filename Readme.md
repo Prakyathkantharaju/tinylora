@@ -20,3 +20,4 @@ model = MakeLora(model, config)
 - [x] Lora for Tensors eg in `testing_lora.py`
 - [ ] Lora for Transformers 
 - [ ] Lora for CNNs
+- [ ] Fine tune mistral 7b using tinygrad.
